@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://workoho.com/">
-    <img src="logo.svg" alt="Logo" width="200" height="80">
+    <img src="https://raw.githubusercontent.com/Workoho/.github/main/profile/logo.svg" alt="Logo" width="200" height="80">
   </a>
 </div>
 
